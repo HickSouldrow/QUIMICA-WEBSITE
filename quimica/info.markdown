@@ -1,0 +1,10 @@
+- index.php
+- noticias.php
+- artigos.php
+- sobre.php
+- css/
+   - style.css
+- includes/
+   - header.php
+   - footer.php
+- imagens/
